@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9ec7123-c653-4830-8aed-54c9086e3be1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVxEINkGtd8MlTGTetaPR6WfV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Thayane Cristina/Desktop/Faculdade/Linguagem de Programação/padroes-projeto/padroes-comportamentais/state",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.VestidoTest.VestidoDisponivelNaoPodeIrParaManutencao">
+    <configuration name="VestidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="state" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VestidoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VestidoTest.DeveReservarVestidoDisponivel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="state" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VestidoTest" />
+      <option name="METHOD_NAME" value="DeveReservarVestidoDisponivel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VestidoTest.DeveVenderVestidoDisponivel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="state" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VestidoTest" />
+      <option name="METHOD_NAME" value="DeveVenderVestidoDisponivel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VestidoTest.VestidoDisponivelNaoPodeIrParaLavanderia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="state" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VestidoTest" />
+      <option name="METHOD_NAME" value="VestidoDisponivelNaoPodeIrParaLavanderia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VestidoTest.VestidoDisponivelNaoPodeIrParaManutencao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="state" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VestidoTest" />
+      <option name="METHOD_NAME" value="VestidoDisponivelNaoPodeIrParaManutencao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VestidoTest.VestidoDisponivelNaoPodeIrParaManutencao" />
+        <item itemvalue="JUnit.VestidoTest.VestidoDisponivelNaoPodeIrParaLavanderia" />
+        <item itemvalue="JUnit.VestidoTest.DeveVenderVestidoDisponivel" />
+        <item itemvalue="JUnit.VestidoTest.DeveReservarVestidoDisponivel" />
+        <item itemvalue="JUnit.VestidoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9ec7123-c653-4830-8aed-54c9086e3be1" name="Changes" comment="" />
+      <created>1683555945474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683555945474</updated>
+    </task>
+    <servers />
+  </component>
+</project>
